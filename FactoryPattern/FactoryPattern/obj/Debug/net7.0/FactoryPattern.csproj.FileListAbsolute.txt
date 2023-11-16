@@ -1,0 +1,14 @@
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.exe
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.deps.json
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.runtimeconfig.json
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.dll
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\bin\Debug\net7.0\FactoryPattern.pdb
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.dll
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net7.0\refint\FactoryPattern.dll
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.pdb
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net7.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\home\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net7.0\ref\FactoryPattern.dll
